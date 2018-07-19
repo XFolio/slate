@@ -17,6 +17,16 @@ body {
   display: inline-block;
 }
 
+.slate-head {
+  width:auto;
+  height:auto;
+  background-image:url('../img/xslate.png');
+}
+
+.slatehead-inner {
+  padding-top:70px;
+}
+
 /*Fonts*/
 
 h1 {
