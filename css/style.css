@@ -1,5 +1,15 @@
 /*Copyright © XFolio Designs*/
 
+/*Misc CSS*/
 body {
   background-color:#4f4f4f;
+}
+
+/*Dividers*/
+
+.wrapper {
+  text-align: center;
+}
+.inner {
+  display: inline-block;
 }
