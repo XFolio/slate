@@ -1,8 +1,11 @@
 /*Copyright © XFolio Designs*/
+@import url('https://fonts.googleapis.com/css?family=Coda+Caption:800');
 
 /*Misc CSS*/
 body {
   background-color:#4f4f4f;
+  color:white;
+  font-family:sans-serif;
 }
 
 /*Dividers*/
@@ -12,4 +15,10 @@ body {
 }
 .inner {
   display: inline-block;
+}
+
+/*Fonts*/
+
+h1 {
+  font-family: 'Coda Caption', sans-serif !important;
 }
