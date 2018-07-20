@@ -20,11 +20,7 @@ body {
 
 /*Fonts*/
 
-h1 {
-  font-family: 'Coda Caption', sans-serif;
-}
-
-h1 .jumbo-title {
+.jumbo-title {
   font-size:40px;
   font-family: 'Monoton', cursive !important;
 }
