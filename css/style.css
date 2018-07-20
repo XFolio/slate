@@ -10,7 +10,7 @@ body {
 }
 
 hr {
-  color:#d5db36;
+  background-color:#d5db36 !important;
   transform:rotate(-20deg);
   height:3px;
 }
