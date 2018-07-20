@@ -38,6 +38,7 @@ nav {
   background-color:#d5db36;
   height:40px;
   width:100%;
+  position:fixed;
 }
 
 nav ul {
