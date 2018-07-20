@@ -24,6 +24,11 @@ hr {
   display: inline-block;
 }
 
+.group-wrapper {
+  padding-top:100px;
+  padding-left:80px;
+}
+
 /*Fonts*/
 
 .jumbo-title {
