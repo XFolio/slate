@@ -1,6 +1,7 @@
 /*Copyright © XFolio Designs*/
 @import url('https://fonts.googleapis.com/css?family=Coda+Caption:800');
 @import url('https://fonts.googleapis.com/css?family=Monoton');
+@import url('https://fonts.googleapis.com/css?family=Acme');
 
 /*Misc CSS*/
 body {
@@ -32,6 +33,22 @@ hr {
   padding-bottom:200px;
 }
 
+/*Nav*/
+nav {
+  background-color:#d5db36;
+}
+
+nav ul {
+  display:inline;
+  list-style-type:none;
+}
+
+nav ul li {
+  float:left;
+  padding-left:35px;
+}
+
+
 /*Fonts*/
 
 .jumbo-title {
@@ -41,6 +58,7 @@ hr {
 
 .sub-title {
   padding-top:10px;
+  font-family: 'Acme', sans-serif !important;
   padding-left:30px;
   font-size: 30px;
 }
