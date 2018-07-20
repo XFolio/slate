@@ -12,14 +12,14 @@ body {
   margin:0;
 }
 
-.1 {
+.one {
   background-color:#d5db36 !important;
   transform:rotate(-3deg);
   height:3px;
   width:70%;
 }
 
-.2 {
+.two {
   background-color:#d5db36 !important;
   transform:rotate(-3deg) !important;
   height:3px;
