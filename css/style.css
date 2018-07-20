@@ -13,6 +13,9 @@ hr {
   background-color:#d5db36 !important;
   transform:rotate(-10deg);
   height:3px;
+  width:70%;
+  padding-top:20px;
+  padding-bottom:20px;
 }
 
 /*Dividers*/
@@ -28,7 +31,7 @@ hr {
   padding-top:100px;
   padding-left:80px;
   height:100%;
-  padding-bottom:100px;
+  padding-bottom:200px;
 }
 
 /*Fonts*/
