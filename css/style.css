@@ -1,6 +1,6 @@
 /*Copyright © XFolio Designs*/
 @import url('https://fonts.googleapis.com/css?family=Coda+Caption:800');
-@import url('https://fonts.googleapis.com/css?family=Monoton');
+@import url('https://fonts.googleapis.com/css?family=Anton');
 @import url('https://fonts.googleapis.com/css?family=Acme');
 
 /*Misc CSS*/
@@ -78,7 +78,7 @@ nav ul li a:hover {
 
 .jumbo-title {
   font-size:40px;
-  font-family: 'Monoton', cursive !important;
+  font-family: 'Anton', sans-serif !important;
 }
 
 .sub-title {
