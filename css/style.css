@@ -9,6 +9,12 @@ body {
   font-family:sans-serif;
 }
 
+hr {
+  color:#d5db36;
+  transform:rotate(-20deg);
+  height:3px;
+}
+
 /*Dividers*/
 
 .wrapper {
