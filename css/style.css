@@ -159,3 +159,9 @@ nav ul li a:hover {
   padding-left:30px;
   font-size: 30px;
 }
+
+/*Responsive Design*/
+
+.onCollapseShow {
+  display:none;
+}
