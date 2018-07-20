@@ -17,6 +17,13 @@ hr {
   width:70%;
 }
 
+hr .2 {
+  background-color:#d5db36 !important;
+  transform:rotate(-3deg) !important;
+  height:3px;
+  width:70%;
+}
+
 span {
   color:#d5db36;
 }
