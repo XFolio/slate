@@ -183,3 +183,9 @@ nav ul li a:hover {
     padding-top:3px !important;
   }
 }
+
+@media only screen and (max-width:415px) {
+  .jumbo-text {
+    font-size:35px;
+  } 
+}
