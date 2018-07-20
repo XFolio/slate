@@ -165,3 +165,17 @@ nav ul li a:hover {
 .showcollapse {
   display:none;
 }
+
+.hidecollapse {
+
+}
+
+@media only screen and (max-width:382px) {
+  .showcollapse {
+    display:block !important;
+  }
+  
+  .hidecollapse {
+    display:none;
+  }
+}
