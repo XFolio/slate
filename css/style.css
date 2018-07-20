@@ -39,6 +39,8 @@ nav {
   height:40px;
   width:100%;
   position:fixed;
+  border-left:#bca000 2px solid;
+  padding: 5px 5px 5px 5px;
 }
 
 nav ul {
