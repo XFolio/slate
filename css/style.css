@@ -27,6 +27,8 @@ hr {
 .group-wrapper {
   padding-top:100px;
   padding-left:80px;
+  height:100%;
+  padding-bottom:100px;
 }
 
 /*Fonts*/
