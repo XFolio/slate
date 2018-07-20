@@ -178,4 +178,8 @@ nav ul li a:hover {
   .hidecollapse {
     display:none;
   }
+  
+  nav ul li {
+    padding-top:3px !important;
+  }
 }
