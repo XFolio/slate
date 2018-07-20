@@ -171,7 +171,7 @@ nav ul li a:hover {
 
 }
 
-@media only screen and (max-width:382px) {
+@media only screen and (max-width:390px) {
   .showcollapse {
     display:block !important;
   }
@@ -189,5 +189,6 @@ nav ul li a:hover {
   .group-wrapper {
     float:left;
     padding-left:30px;
+    padding-right:0px;
   }
 }
